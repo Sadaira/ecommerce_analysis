@@ -17,11 +17,11 @@ Across all regions, **the marketing channel leading to the most sales is direct 
 
 Loyalty program members made fewer and less expensive purchases in 2019 and 2020 than non-members. Sales from **loyalty program members surpassed that of non-members in 2021 and 2022.** In the average order value of a loyalty program member was $30 more than non-members in 2022.
 
-![Monthly summary screenshot from workbook](images\monthly_summary.png)
-![Loyalty program performance screenshot from workbook](images\loyalty_program.png)
+![Monthly summary screenshot from workbook](./images/monthly_summary.png)
+![Loyalty program performance screenshot from workbook](./images/loyalty_program.png)
 
-![Tableau visualization](images\tableau1.png)
-![Taableau visualization](images\tableau2.png)
+![Tableau visualization](./images/tableau1.png)
+![Taableau visualization](./images/tableau2.png)
 ### Recommendations
 
 The increase in sales by loyalty program members over recent years suggests that the **loyalty program should be continued.**
